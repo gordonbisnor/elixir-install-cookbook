@@ -1,0 +1,25 @@
+{
+	"name": "elixir-install",
+	"description": "Install Elixir",
+	"long_description": "",
+	"maintainer": "Gordon B. Isnor",
+	"maintainer_email": "gordonbisnor@gmail.com",
+	"license": "GNU GPL v2",
+	"platforms": {
+		"ubuntu": ">= 0.0.0"
+		},
+	"dependencies":{
+	},
+	"recommendations": {},
+	"suggestions": {},
+	"conflicting": {},
+	"providing": {},
+	"replacing": {},
+	"attributes": {},
+	"groupings": {},
+	"recipes":{
+		"elixir-install": "Elixir Install"
+		},
+	"version":"0.0.1"
+}
+
