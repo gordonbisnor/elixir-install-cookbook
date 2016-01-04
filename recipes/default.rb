@@ -4,6 +4,6 @@ execute "elixir" do
 end
 
 execute "upgrade elixir" do
-	command "sudo apt-get upgrade elixir"
-	action :run
+  command "sudo apt-get upgrade elixir"
+  action :run
 end
