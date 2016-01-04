@@ -9,6 +9,7 @@
 		"ubuntu": ">= 0.0.0"
 		},
 	"dependencies":{
+		"erlang":">= 2.0.0"
 	},
 	"recommendations": {},
 	"suggestions": {},
@@ -20,6 +21,6 @@
 	"recipes":{
 		"elixir-install": "Elixir Install"
 		},
-	"version":"0.0.1"
+	"version":"0.0.2"
 }
 
